@@ -17,6 +17,7 @@ nav {
   border-radius: 15px;
   background-color: skyblue;
   padding: 20px;
+  position: fixed;
 }
 
 * {
