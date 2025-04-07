@@ -1,0 +1,18 @@
+h1 {
+  font-family: Tahoma;
+  font-size: 15px;
+}
+
+nav ul li {
+  display: inline-block;
+}
+nav ul li a:hover {
+  color: aliceblue;
+}
+
+nav {
+  border: 0px solid black;
+  border-radius: 15px;
+  background-color: skyblue;
+  padding: 20px;
+}
