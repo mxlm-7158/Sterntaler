@@ -5,7 +5,7 @@ h1 {
 
 nav ul li {
   display: inline-block;
-  padding: 15px;
+  padding: 10px;
   font-size: 30px;
 }
 nav ul li a:hover {
@@ -16,10 +16,6 @@ nav {
   border: 0px solid black;
   border-radius: 15px;
   background-color: skyblue;
-  padding: 20px;
+  padding: 0;
   position: fixed;
-}
-
-* {
-  padding: 20px;
 }
