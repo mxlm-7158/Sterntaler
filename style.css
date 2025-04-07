@@ -19,3 +19,8 @@ nav {
   padding: 0;
   position: fixed;
 }
+
+* {
+  position: relative;
+  top: 70px;
+}
