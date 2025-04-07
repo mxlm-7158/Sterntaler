@@ -18,3 +18,7 @@ nav {
   background-color: skyblue;
   padding: 20px;
 }
+
+* {
+  padding: 20px;
+}
