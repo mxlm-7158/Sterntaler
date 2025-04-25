@@ -1,7 +1,9 @@
 * {
+  box-sizing: border-box;
   position: relative;
   top: 7%;
   margin: 0;
+  padding: 0.2em;
 }
 
 h1 {
@@ -11,7 +13,7 @@ h1 {
 
 p {
   font-family: 'Indie Flower';
-  margin: 10px;
+  padding: 0.2em;
 }
 
 a {
@@ -29,7 +31,7 @@ nav ul li {
   background-color: deepskyblue;
 }
 a:hover {
-  color: aliceblue;
+  background-color: aliceblue;
 }
 
 nav {
