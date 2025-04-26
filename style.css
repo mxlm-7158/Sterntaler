@@ -27,3 +27,7 @@ nav ul li a {
 nav ul li:hover {
   background-color: #C9FFE1;
 }
+
+.logo {
+  float: right;
+}
