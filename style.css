@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+  padding: 0.6em;
   font-family: 'Sansation';
 }
 
@@ -35,6 +36,5 @@ nav ul li:hover {
 
 p {
   line-height: 1.55;
-  padding: 0.6em;
   font-size: 25px;
 }
